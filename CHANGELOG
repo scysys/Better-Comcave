@@ -1,0 +1,7 @@
+## Version 1.01
+
+- Der Neustart Intervall von 15 Minuten wurde auf Wunsch auf einen Zufallsbasierten Wert zwischen 10 - 60 Minuten gelegt.
+
+## Version 1.00
+
+- Initial Release
