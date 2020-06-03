@@ -1,3 +1,9 @@
+## Version 1.02
+Hinweis: Zu meiner Zeit gab es Version 3 noch nicht. Diese Version wurde von @minimalizedZ eingereicht.
+
+- CCLauncher Version 3 kompatibel
+- Einige Verbesserungen
+
 ## Version 1.01
 
 - Der Neustart Intervall von 15 Minuten wurde auf Wunsch auf einen Zufallsbasierten Wert zwischen 10 - 60 Minuten gelegt.
